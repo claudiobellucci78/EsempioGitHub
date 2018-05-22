@@ -5,3 +5,4 @@ D:\Temp\GitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.Properties.Resources.re
 D:\Temp\GitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.csproj.GenerateResource.Cache
 D:\Temp\GitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.exe
 D:\Temp\GitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.pdb
+D:\Temp\GitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.Claudio.frmClaudio.resources
