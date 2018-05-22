@@ -34,7 +34,9 @@
             // 
             // button1
             // 
+
             this.button1.Location = new System.Drawing.Point(12, 12);
+
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(149, 56);
             this.button1.TabIndex = 0;
@@ -45,11 +47,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(97, 223);
+            this.label1.Location = new System.Drawing.Point(52, 86);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(150, 13);
+            this.label1.Size = new System.Drawing.Size(51, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "TOSONI NON VA (DI TESTA)";
+            this.label1.Text = "Marianna";
             // 
             // Form1
             // 
