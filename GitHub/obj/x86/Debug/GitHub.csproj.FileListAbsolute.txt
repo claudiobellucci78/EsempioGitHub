@@ -8,4 +8,6 @@ D:\Temp\GitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.pdb
 D:\Temp\GitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.Claudio.frmClaudio.resources
 D:\temp\GitHub\EsempioGitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.exe
 D:\temp\GitHub\EsempioGitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.pdb
+C:\Workdir\Sviluppo\GitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.exe
+C:\Workdir\Sviluppo\GitHub\EsempioGitHub\GitHub\obj\x86\Debug\GitHub.pdb
 
