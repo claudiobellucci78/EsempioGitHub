@@ -15,5 +15,14 @@ namespace GitHub
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("FAVA!!!!");
+
+            Claudio.frmClaudio win = new Claudio.frmClaudio();
+
+            win.Show();
+        }
     }
 }
