@@ -7,20 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace GitHub
+namespace GitHub.Claudio
 {
-    public partial class Form1 : Form
+    public partial class frmClaudio : Form
     {
-        public Form1()
+        public frmClaudio()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Claudio.frmClaudio win = new Claudio.frmClaudio();
-
-            win.Show();
         }
     }
 }
